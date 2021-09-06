@@ -6,4 +6,4 @@
 <a href="https://styled-components.com/" target="_blank"><img src="https://img.shields.io/badge/Styled-components-DB7093?style=flat-square&logo=Styled-components&logoColor=white"/></a>
 ### studying
 <a href="https://www.typescriptlang.org/docs/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
-<a href="https://www.typescriptlang.org/docs/" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
+<a href="https://www.typescriptlang.org/docs/" target="_blank"><img src="https://img.shields.io/badge/C#-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
