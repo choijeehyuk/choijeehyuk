@@ -8,4 +8,4 @@
 <a href="https://www.typescriptlang.org/docs/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
 <a href="https://www.typescriptlang.org/docs/" target="_blank"><img src="https://img.shields.io/badge/Data Structure-945DD6?style=flat-square&logo=&logoColor=white"/></a>
 <a href="https://www.typescriptlang.org/docs/" target="_blank"><img src="https://img.shields.io/badge/Algorithm-EF2D5E?style=flat-square&logo=&logoColor=white"/></a>
-
+<a href="https://www.typescriptlang.org/docs/" target="_blank"><img src="https://img.shields.io/badge/MobX-FF9955?style=flat-square&logo=MobX&logoColor=white"/></a>
