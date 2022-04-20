@@ -1,3 +1,7 @@
+![header](https://capsule-render.vercel.app/api?type=slice&color=e1bee7&height=300&section=header&text=sungsu&fontSize=100&fontColor=af8eb5&fontAlign=20&fontAlignY=75)
+
+## I studying computer scinece for software engineering
+
 ### Familiar
 <a href="https://ko.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 <a href="https://javascript.info/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
@@ -11,5 +15,5 @@
 <!-- <a href="https://mobx.js.org/README.html" target="_blank"><img src="https://img.shields.io/badge/MobX-FF9955?style=flat-square&logo=MobX&logoColor=white"/></a> -->
 <!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> -->
 <!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C#&logoColor=white"/></a> -->
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
+![footer](https://capsule-render.vercel.app/api?type=slice&color=e1bee7&height=300&section=footer&text=&fontSize=100&fontColor=af8eb5&fontAlign=20&fontAlignY=75)
